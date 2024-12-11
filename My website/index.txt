@@ -1,0 +1,20 @@
+<DOCTYPE! html>
+<html>
+
+</head>
+<body>
+<h1>Mlee Digital Designs</h1>
+
+<h2>Project 1 Digital Design</h2>
+
+<p>This is where my statement about my project goes. You could use your proposal here</p>
+
+<p>Below is my final Logo</p>
+
+<img src="illustratorday1-01.png">
+
+<p>Below is a link to my .ai file in Google Drive</p>
+
+<a href=“www.thing.com”>This is a pdf</a>
+</body>
+</html>
